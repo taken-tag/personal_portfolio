@@ -4,7 +4,7 @@ import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponent
 import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
-const Hero = (props) => (
+const Hero = () => (
   <>
     <Section row nopadding>
       <LeftSection>
@@ -13,9 +13,9 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps.
+         A fullstack Webdeveloper improving skills, day by day and learning new things..
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={()=> window.location = "#projects"}>Learn More</Button>
       </LeftSection>
     </Section>
   </>
