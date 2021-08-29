@@ -25,10 +25,11 @@ export const projects = [
     description: "using Next, React, Firebase, Redux material-ui-icons, full stack build one to one chat-app like a whatsapp",
       image: '/images/watsapp.jpg',
       tags: ['React', 'Firebase', 'Next' ],
-    source: 'https://github.com/taken-tag/whatsapp-clone-next.js',
-    visit: 'https://whatsapp-clone-next-js-yashverma.vercel.app',
+    source: 'https://whatsapp-clone-next-js-yashverma.vercel.app',
+    visit: 'https://github.com/taken-tag/whatsapp-clone-next.js',
     id: 2,
   },
+ 
   {
     title: 'Portfolio',
     description: "This is a portfolio website using react, firebase, sass and fully responsive",
