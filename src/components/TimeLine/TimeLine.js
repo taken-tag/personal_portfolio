@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I started my webDeveloper Journey from febrary 2020 and learned a lots of things and understand lots of concepts learning new libraries and frameworks creating some awesome projects and still learning and grabing new things.
+      I started my webDeveloper Journey from November 2020 and learned a lots of things and understand lots of concepts learning new libraries and frameworks creating some awesome projects and still learning and grabing new things.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
