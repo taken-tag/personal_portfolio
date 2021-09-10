@@ -22,7 +22,7 @@ export const projects = [
   // 
   {
     title: 'Chat-app',
-    description: "using Next, React, Firebase, Redux material-ui-icons, full front-end and auth of firebase",
+    description: "using Next, React, Firebase, Redux material-ui-icons",
       image: '/images/netflix.jpg',
       tags: ['React', 'Firebase', ],
     source: 'https://netflix-eb1ff.web.app',
