@@ -23,10 +23,10 @@ export const projects = [
   {
     title: 'Chat-app',
     description: "using Next, React, Firebase, Redux material-ui-icons, full stack build one to one chat-app like a whatsapp",
-      image: '/images/watsapp.jpg',
+      image: '/images/netflix.jpg',
       tags: ['React', 'Firebase', 'Next' ],
-    source: 'https://whatsapp-clone-next-js-yashverma.vercel.app',
-    visit: 'https://github.com/taken-tag/whatsapp-clone-next.js',
+    source: 'https://netflix-eb1ff.web.app',
+    visit: 'https://github.com/taken-tag/netflix-clone',
     id: 2,
   },
  
