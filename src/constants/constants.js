@@ -21,7 +21,7 @@ export const projects = [
 
   // 
   {
-    title: 'Chat-app',
+    title: 'Netflix-clone',
     description: "using Next, React, Firebase, Redux material-ui-icons",
       image: '/images/netflix.jpg',
       tags: ['React', 'Firebase', ],
