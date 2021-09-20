@@ -31,12 +31,12 @@ export const projects = [
   },
  
   {
-    title: 'Portfolio',
-    description: "This is a portfolio website using react, firebase, sass and fully responsive",
-    image: '/images/portfolio.jpg',
-    tags: ['React', 'Firebase', "sass"],
-    source: 'https://link-9956c.web.app',
-    visit: 'https://github.com/taken-tag/personal_P',
+    title: 'snapchat',
+    description: "This is a snapchat, snap taking website using react, firebase, and react libraries",
+    image: '/images/snapchat.jpg',
+    tags: ['React', 'Firebase', "redux"],
+    source: 'https://snapchat-93a68.web.app',
+    visit: 'https://github.com/taken-tag/snapchat',
     id: 3,
   },
 
