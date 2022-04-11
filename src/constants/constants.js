@@ -10,15 +10,24 @@ export const projects = [
   },
 
   {
-    title: 'Linkedin-clone',
-    description:"Using  React, firebase, Node.js styled_components  for this project using react libraries and like redux and matrial-ui icons",
-    image: '/images/linkedin.png',
-    tags: ['React', 'Firebase', ],
-    source: 'https://linkdin-clone-9a83d.web.app',
-    visit: 'https://github.com/taken-tag/linkedin',
+    title: 'NFT-Marketplace',
+    description:"Using Next, React, Thirdweb, Sanity, Tailwind css ",
+    image: '/images/laser2.gif',
+    tags: ['React', 'Sanity', ],
+    source: 'https://nft-drop-tau.vercel.app/',
+    visit: 'https://github.com/taken-tag/NFT-Drop',
     id: 1,
   },
 
+  {
+    title: 'D-Chat-App',
+    description: "D-Chat-App using Moralis, Next.js, React, Metamask",
+    image: '/images/chats.png',
+    tags: ['React', 'Moralis', "Metamask-Wallet"],
+    source: 'https://snapchat-93a68.web.app',
+    visit: 'https://meta-verse-d-app.vercel.app/',
+    id: 3,
+  },
   // 
   {
     title: 'Netflix-clone',
@@ -30,16 +39,6 @@ export const projects = [
     id: 2,
   },
  
-  {
-    title: 'snapchat',
-    description: "This is a snapchat, snap taking website using react, firebase, and react libraries",
-    image: '/images/snapchat.jpg',
-    tags: ['React', 'Firebase', "redux"],
-    source: 'https://snapchat-93a68.web.app',
-    visit: 'https://github.com/taken-tag/snapchat',
-    id: 3,
-  },
-
 ];
 
 export const TimeLineData = [
