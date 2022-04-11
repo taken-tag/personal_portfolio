@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'NFT-Marketplace',
     description:"Using Next, React, Thirdweb, Sanity, Tailwind css ",
-    image: '/images/laser2.gif',
+    image: '/images/unnamed.jpg',
     tags: ['React', 'Sanity', ],
     source: 'https://nft-drop-tau.vercel.app/',
     visit: 'https://github.com/taken-tag/NFT-Drop',
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: 'D-Chat-App',
     description: "D-Chat-App using Moralis, Next.js, React, Metamask",
-    image: '/images/chats.png',
+    image: '/images/watsapp.jpg',
     tags: ['React', 'Moralis', "Metamask-Wallet"],
     source: 'https://snapchat-93a68.web.app',
     visit: 'https://meta-verse-d-app.vercel.app/',
