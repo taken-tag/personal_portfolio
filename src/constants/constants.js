@@ -24,8 +24,8 @@ export const projects = [
     description: "D-Chat-App using Moralis, Next.js, React, Metamask",
     image: '/images/watsapp.jpg',
     tags: ['React', 'Moralis', "Metamask-Wallet"],
-    source: 'https://snapchat-93a68.web.app',
-    visit: 'https://meta-verse-d-app.vercel.app/',
+    source: 'https://meta-verse-d-app.vercel.app/',
+    visit: 'https://github.com/taken-tag/DChat_app',
     id: 3,
   },
   // 
